@@ -72,6 +72,12 @@
   align-content: start;
 }
 
+.techs {
+  display: inline-block;
+  padding: 10px;
+  align-items: center;
+}
+
 @media (max-width: 800px) {
   .experiencia {
     grid-template-columns: 1fr;
